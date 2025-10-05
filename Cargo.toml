@@ -3,6 +3,10 @@ name = "pyquillmark"
 version = "0.1.0"
 edition = "2021"
 rust-version = "1.70"
+description = "Python bindings for Quillmark - a template rendering engine"
+license = "Apache-2.0"
+repository = "https://github.com/nibsbin/quillmark-py"
+homepage = "https://github.com/nibsbin/quillmark-py"
 
 [lib]
 name = "_core"
